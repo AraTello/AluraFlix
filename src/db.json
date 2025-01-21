@@ -1,0 +1,45 @@
+{
+    "videos":[
+        {
+            "id": 1,
+            "categoria": "Front End",
+            "titulo": "¿Qué es JavaScript?",
+            "imagen": "/img/Front-End_1.jpg",
+            "video": "https://www.youtube.com/embed/GJfOSoaXk4s",
+            "descripcion": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips." 
+        },
+        {
+            "id": 2,
+            "categoria": "Back End",
+            "titulo": "¿Qué es SQL y NoSQL?",
+            "imagen": "./public/img/Back-End_1.jpg",
+            "video": "https://www.youtube.com/embed/cLLKVd5CNLc",
+            "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo."
+        },
+        {
+            "id": 3,
+            "categoria": "Innovación y Gestión",
+            "titulo": "¿Qué son las Soft Skills?",
+            "imagen": "./public/img/Innovacion-Gestion_1.jpg",
+            "video": "https://www.youtube.com/embed/vhwspfvI52k",
+            "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día."
+        }
+    ],
+    "categorias": [
+        {
+            "id": 1,
+            "nombre": "Front End",
+            "color": "#6BD1FF" 
+        },
+        {
+            "id": 2,
+            "nombre": "Back End",
+            "color": "#00C86F" 
+        },
+        {
+            "id": 3,
+            "nombre": "Innovación y Gestión",
+            "color": "#FFBA05" 
+        }
+    ]
+}
